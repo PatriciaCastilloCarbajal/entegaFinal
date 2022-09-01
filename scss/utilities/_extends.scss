@@ -1,0 +1,10 @@
+/* extends*/
+
+
+header.barraNav{
+    background-color:#ac7d88 ;
+}
+
+main{
+    @extend header.barraNav
+}

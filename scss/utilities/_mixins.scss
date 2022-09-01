@@ -1,0 +1,10 @@
+
+/*Primero se declara mixin antes de incorporarlo*/
+
+@mixin medidas ($width, $height,) {
+    width: $width;
+    height: $height;
+}
+
+
+
